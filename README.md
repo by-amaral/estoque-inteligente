@@ -60,7 +60,9 @@ A versão atual apenas exibe uma mensagem inicial no terminal.
 
 ## Critérios do projeto
 
-- Preços demonstrativos serão identificados como fictícios.
+- O projeto prevê integrar ofertas reais de diferentes lojas, identificando a fonte, a condição de pagamento e a data da última consulta.
+- A cobertura de lojas dependerá das integrações disponíveis.
+- Dados demonstrativos usados durante o desenvolvimento serão identificados.
 - Verificações de compatibilidade usarão especificações verificadas.
 - Informações ausentes serão sinalizadas, sem aprovação automática.
 - A recomendação inicial por regras será diferenciada dos futuros modelos de ML.
