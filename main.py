@@ -1,2 +1,2 @@
-print("CONTROLE DE ESTOQUE")
-print("Projeto em desenvolvimento.")
+print("PC BUILD LAB")
+print("Configurador de computadores em desenvolvimento.")
